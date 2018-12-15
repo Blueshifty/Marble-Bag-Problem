@@ -51,7 +51,7 @@ int main() {
 	cout<<"Marble Bag Problem With Dynamic Approach"<<endl;
 	cout<<"Bag Has 2 Kind of Marbles: Green and Red"<<endl;
 	cout<<"2 Players Start to Pull the Marbles From Bag, One by One!"<<endl;
-	cout<<"Who Pulls the Red Marble First, Gonna Win!"<<endl;
+	cout<<"Who Pulls the Red Marble First Wins The Game!"<<endl;
 	cout<<"When There are Only Red Marbles On The Bag, Starter Wins!"<<endl;
 	cout<<"Program Will Calculate the Winning Probability of Starter"<<endl;
 	cout<<"*****************************************"<<endl;
